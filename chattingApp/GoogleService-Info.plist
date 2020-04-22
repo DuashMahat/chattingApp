@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>294182155954-taq8ak3rrt72pkvcvrf73if6cbtvnm31.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.294182155954-taq8ak3rrt72pkvcvrf73if6cbtvnm31</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAjlFxc07cgR0RGw02YDtRrAJU_0VXxv4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>294182155954</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dualemahat.chattingApp</string>
+	<key>PROJECT_ID</key>
+	<string>chatting-bcd35</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatting-bcd35.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:294182155954:ios:32264edb9e39f0a05afbab</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatting-bcd35.firebaseio.com</string>
+</dict>
+</plist>
